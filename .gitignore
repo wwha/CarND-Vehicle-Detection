@@ -1,0 +1,8 @@
+# ignore the .DS_Store file, which is created by MacOS
+.DS_Store
+
+# ignore the jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# ignore the train_data
+train_data/
